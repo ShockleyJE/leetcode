@@ -1,5 +1,11 @@
 # leetcode answers
 
-### Link for Leetcode SQL Track
+### Leetcode SQL Track
 
-https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan&id=sql-i
+_NOTE_ I am using MS SQL dialect.
+
+https://leetcode.com/study-plan/sql/
+
+### Leetcode Data Structures Track
+
+https://leetcode.com/study-plan/data-structure/?progress=xnnxcrlg
